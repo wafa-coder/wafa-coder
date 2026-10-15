@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Wafa — Full-stack Developer" width="100%">
+  <img src="./assets/profile-banner.gif" alt="Wafa — Full-stack Developer" width="100%">
   <h1>Halo, saya Wafa 👋</h1>
   <p><strong>Full-stack developer yang membangun aplikasi web dan solusi berbasis data.</strong></p>
   <p>
